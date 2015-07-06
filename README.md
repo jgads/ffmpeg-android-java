@@ -4,7 +4,7 @@
 [![Join the chat at https://gitter.im/hiteshsondhi88/ffmpeg-android-java](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hiteshsondhi88/ffmpeg-android-java?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## About 
-[FFmpeg Android java](http://hiteshsondhi88.github.io/ffmpeg-android-java/) is a java library that simplifies your task of using ffmpeg in Android project which I've compiled using [FFmpeg-Android](http://hiteshsondhi88.github.io/ffmpeg-android/)
+[FFmpeg Android java](http://hiteshsondhi88.github.io/ffmpeg-android-java/) is a java library that simplifies your task of using ffmpeg in Android project. This fork is using an LGPL version of the FFmpeg binary, with permission from the creator, hiteshsondhi88, for dynamically linking in commercial projects.
 
 These are two basic methods of this library:
 
@@ -27,7 +27,7 @@ For examples and usage instructions head over to:
 * [Javadoc](http://hiteshsondhi88.github.io/ffmpeg-android-java/docs/)
 
 ## License
-* Check file LICENSE.GPLv3 and Make sure to follow the licensing terms and conditions of the project and the software used to build the project.
+* Check file LICENSE.LGPLv3 and Make sure to follow the licensing terms and conditions of the project and the software used to build the project.
 
 ## HIRE US
 * Get in touch with us - http://www.writingminds.com
